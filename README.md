@@ -36,7 +36,3 @@ Um sistema simples e eficiente para gerenciar chamados, integrado com Google For
 
 4. **Acompanhamento**:
    - A equipe pode visualizar e gerenciar os chamados diretamente na planilha do Google Sheets.
-
----
-
-## 📂 Estrutura do Projeto
