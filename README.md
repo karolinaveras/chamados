@@ -18,7 +18,6 @@ Um sistema simples e eficiente para gerenciar chamados, integrado com Google For
 - **Google Forms**: Interface para abertura de chamados.
 - **Google Sheets**: Armazenamento e gerenciamento dos chamados.
 - **Google Apps Script**: Automação da geração de números de chamados e envio de e-mails.
-- **Markdown**: Documentação do projeto.
 
 ---
 
